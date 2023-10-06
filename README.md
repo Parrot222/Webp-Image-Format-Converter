@@ -4,7 +4,7 @@
 
 ## -Usage-
 Clone the repository to your local machine:  
-git clone https://github.com/your-username/webp-to-jpg-png-converter.git  
+git clone https://github.com/Parrot222/webp-to-jpg-png-converter.git  
   
 Navigate to the project directory:  
 cd webp-to-jpg-png-converter  
