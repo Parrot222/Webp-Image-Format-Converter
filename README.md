@@ -12,10 +12,10 @@ Batch Conversion: Users can upload multiple WebP images simultaneously and conve
   
 ## -Usage-
 1.Clone the repository to your local machine:  
-git clone https://github.com/Parrot222/webp-to-jpg-png-converter.git  
+> git clone https://github.com/Parrot222/webp-to-jpg-png-converter.git  
   
 2.Run the script:  
-streamlit run WebpApp.py  
+> streamlit run WebpApp.py  
   
 3.Upload one or more WebP image files.  
   
