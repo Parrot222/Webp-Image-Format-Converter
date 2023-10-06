@@ -7,4 +7,4 @@ Clone the repository to your local machine:
 git clone https://github.com/Parrot222/webp-to-jpg-png-converter.git  
   
 Run the script:  
-streamlit run webp_converter_app.py   
+streamlit run WebpApp.py  
