@@ -4,9 +4,9 @@ This Python script provides a user-friendly interface using Streamlit to convert
 ![image](https://github.com/Parrot222/Webp-Image-Format-Converter/blob/main/webp-converter.png)  
   
 ## Features
-- User-Friendly Interface: Streamlit provides an intuitive web-based interface for users to upload WebP images and select the output format.  
+* User-Friendly Interface: Streamlit provides an intuitive web-based interface for users to upload WebP images and select the output format.  
   
-- Batch Conversion: Users can upload multiple WebP images simultaneously and convert them in a batch.  
+* Batch Conversion: Users can upload multiple WebP images simultaneously and convert them in a batch.  
 
 
   
